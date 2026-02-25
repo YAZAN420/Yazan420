@@ -1,7 +1,3 @@
-<p align="center">I craft robust backend systems and explore game worlds in code. Focus on <b>Hexagonal Architecture</b>, <b>DDD</b>, and <b>CQRS</b>.</p>
-
-<br>
-
 <h3 align="center">🚀 The Arsenal (Tech Stack)</h3>
 
 <h4 align="center">💻 Languages</h4>
