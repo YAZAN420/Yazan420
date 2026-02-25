@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Yazan.;Backend+Architect.;Game+Dev+Enthusiast." alt="Typing SVG" />
-  </a>
-</h1>
-
 <p align="center">I craft robust backend systems and explore game worlds in code. Focus on <b>Hexagonal Architecture</b>, <b>DDD</b>, and <b>CQRS</b>.</p>
 
 <br>
