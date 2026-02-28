@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<br>
-
 <h3 align="center">🏗️ Architectural Philosophy</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
