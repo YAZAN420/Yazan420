@@ -39,32 +39,3 @@
   <img src="https://img.shields.io/badge/Domain_Driven_Design-(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
 </p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yazan420&theme=aura" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yazan420&theme=aura" width="49%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yazan420&theme=aura" width="49%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yazan420&theme=aura" width="49%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yazan420&theme=aura" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yazan420">
-    <img src="https://streak-stats.demolab.com?user=Yazan420&theme=aura&date_format=M%20j%5B%2C%20Y%5D" alt="Yazan420" width="100%"/>
-  </a>
-</p>
