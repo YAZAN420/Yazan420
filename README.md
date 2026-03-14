@@ -18,12 +18,6 @@
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
 </p>
 
-<h4 align="center">🌐 APIs</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" />
-</p>
-
 <h4 align="center">🗄️ Databases</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -37,6 +31,12 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<h4 align="center">🌐 APIs</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" />
 </p>
 
 <h3 align="center">🏗️ Architectural Philosophy</h3>
