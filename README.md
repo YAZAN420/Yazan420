@@ -37,6 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 <h3 align="center">🏗️ Architectural Philosophy</h3>
