@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 <h4 align="center">⚙️ Frameworks & Libraries</h4>
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
+  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 <h4 align="center">🗄️ Databases</h4>
@@ -45,4 +47,9 @@
   <img src="https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Domain_Driven_Design-(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
+</p>
+
+<h4 align="center">🧪 Testing</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
