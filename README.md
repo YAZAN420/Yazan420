@@ -42,15 +42,15 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
+<h4 align="center">🧪 Testing</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
+
 <h3 align="center">🏗️ Architectural Philosophy</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Domain_Driven_Design-(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/CQRS-Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
-</p>
-
-<h4 align="center">🧪 Testing</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
