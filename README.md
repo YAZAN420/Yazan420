@@ -52,4 +52,5 @@
 <h4 align="center">🧪 Testing</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </p>
