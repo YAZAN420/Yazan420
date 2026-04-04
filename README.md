@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">📨 Messaging & Event-Driven Architecture (EDA)</h3>
+<h3 align="center">📨 Message Brokers & Microservices Communication</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/NATS-%2327A1DD.svg?style=for-the-badge&logo=natsdotio&logoColor=white" />
