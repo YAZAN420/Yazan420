@@ -1,4 +1,4 @@
-<h4 align="center">💻 Languages</h4>
+<h3 align="center">💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -7,46 +7,68 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-<h4 align="center">⚙️ Frameworks & Libraries</h4>
+---
+
+<h3 align="center">🚀 Backend Frameworks</h3>
 <p align="center">
-   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
 </p>
 
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+---
 
-<h4 align="center">🛠️ Tools & Environments</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<h4 align="center">🌐 APIs</h4>
+<h3 align="center">🌐 APIs & Networking</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-<h4 align="center">🧪 Testing</h4>
+---
+
+<h3 align="center">📨 Messaging & Event-Driven Architecture (EDA)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-%2327A1DD.svg?style=for-the-badge&logo=natsdotio&logoColor=white" />
 </p>
 
-<h3 align="center">🏗️ Architectural Philosophy</h3>
+---
+
+<h3 align="center">🗄️ Databases & Storage</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain_Driven_Design-(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CQRS-Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🏗️ Architectural Philosophy & Patterns</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices_Architecture-008ECF?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event--Driven_Design-E0234E?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hexagonal_Architecture-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain_Driven_Design_(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS_Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🛠️ Infrastructure & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🎮 Game Dev & Graphics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black" />
 </p>
