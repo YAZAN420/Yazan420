@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Event--Driven_Design-E0234E?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hexagonal_Architecture-6E40C9?style=flat-square&logo=buffer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Domain_Driven_Design_(DDD)-8B5CF6?style=flat-square&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CQRS_Pattern-00A98F?style=flat-square&logo=buffer&logoColor=white"/>
 </p>
 
 ---
